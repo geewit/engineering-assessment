@@ -1,0 +1,13 @@
+/.idea/
+/backend/.idea/
+/backend/.gradle
+/backend/gradle
+/backend/*.iml
+/backend/logs
+/backend/target
+/backend/out
+/frontend/.idea/
+/frontend/.vscode
+/frontend/dist
+/frontend/*.log
+/frontend/package-lock.json
